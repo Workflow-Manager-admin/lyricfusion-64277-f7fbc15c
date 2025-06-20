@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/lyricfusion-64277-f7fbc15c/lyricfusion"
+}
